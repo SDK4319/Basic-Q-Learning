@@ -1,4 +1,4 @@
 Basic Q-Learning Implementation
 
 
-Video:
+Video: https://youtu.be/Ksu39MDQEIw
